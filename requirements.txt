@@ -1,0 +1,10 @@
+numpy
+pandas
+scikit-learn
+sentence_transformers
+joblib
+faiss-cpu
+streamlit
+huggingface-hub
+GitPython
+-e .
